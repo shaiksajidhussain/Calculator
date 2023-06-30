@@ -1,4 +1,4 @@
-# Calculator🔥🔥🔥![image](https://github.com/shaiksajidhussain/Calculator/assets/93574244/c0f7a837-2291-4276-8eeb-ebff1fcb3777)
+# Calculator ![image](https://github.com/shaiksajidhussain/Calculator/assets/93574244/c0f7a837-2291-4276-8eeb-ebff1fcb3777) ![image](https://github.com/shaiksajidhussain/Calculator/assets/93574244/c0f7a837-2291-4276-8eeb-ebff1fcb3777)
 
 Overview
 <h2>This project is a Calculator web application built with HTML, CSS, and Vanilla JavaScript. The calculator provides a user-friendly interface to perform basic arithmetic operations.</h2>
